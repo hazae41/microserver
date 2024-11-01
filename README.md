@@ -10,8 +10,6 @@ Colocate multiple Deno modules on the same Docker container using wildcard DNS, 
 
 You can easily deploy it as a Dockerized web service to cloud-hosting providers such as [render.com](https://render.com).
 
-Prices are ~$5 for the cheapest hosting. Do not use free tiers as they may have high downtimes.
-
 Just fork this repository on your GitHub account and select it on your cloud hosting platform.
 
 <img src="https://github.com/hazae41/network-ws-to-tcp-proxy/assets/4405263/57eb5e56-7475-4bbf-9ba0-548f1444d6ff" width="500" />
