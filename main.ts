@@ -1,5 +1,5 @@
 import * as Dotenv from "https://deno.land/std@0.217.0/dotenv/mod.ts";
-import { Example } from "./mods/example/main.ts";
+import { Example } from "./mods/example/mod.ts";
 
 const envPath = new URL(import.meta.resolve("./.env.local")).pathname
 
