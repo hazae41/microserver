@@ -1,4 +1,4 @@
-# Example Microserver
+# Microserver
 
 Colocate multiple Deno modules on the same Docker container using wildcard DNS, URL path, HTTP headers, and more.
 
